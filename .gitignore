@@ -1,0 +1,8 @@
+.DS_S*
+__pycache__/
+*_utils.py
+*.pyc
+data/*
+data/image/*
+!data/image/
+data/image/tensors/
